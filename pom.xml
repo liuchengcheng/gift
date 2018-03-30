@@ -11,7 +11,7 @@
     <modules>
         <module>ui/portal-ui</module>
         <module>platform/platform-common</module>
-        <module>service/system-service-api</module>
+        <module>service/system-service-interface</module>
         <module>service/system-service</module>
     </modules>
 </project>
